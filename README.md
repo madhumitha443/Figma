@@ -79,7 +79,8 @@ Figma
 
 
 ## OUTPUT:
-![Uploading image.png…]()
+![Uploading Screenshot 2025-10-16 111243.png…]()
+
 
 
 
