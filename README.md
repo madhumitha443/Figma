@@ -79,7 +79,8 @@ Figma
 
 
 ## OUTPUT:
-![Uploading Screenshot 2025-10-16 111243.png…]()
+<img width="1017" height="532" alt="Screenshot 2025-10-16 111037" src="https://github.com/user-attachments/assets/d902dee0-c542-4684-afd0-f6820fb9a007" />
+
 
 
 
